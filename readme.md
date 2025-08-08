@@ -1,4 +1,4 @@
-## How to use the app
+## How to use the program
 
 Download the files called LineCounter.java and LineCounter2.java to your local system. Ensure you have Java installed on your system. Ensure you have images with the .jpg extension to test the program with.
 
